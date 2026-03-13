@@ -97,7 +97,6 @@ export default function adminTournamentsPage() {
       <ThemedView
         style={{
           flex: 1,
-          backgroundColor: isDark ? "#000" : "#f2f2f2",
         }}
       >
         <Watermark />
