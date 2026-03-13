@@ -78,7 +78,7 @@ export default function AdminTabLayout() {
 
       {/* CENTERED TOURNAMENT TAB */}
       <Tabs.Screen
-        name="tournaments/index"
+        name="tournaments"
         options={{
           title: "",
           tabBarIcon: ({ focused }) => (
